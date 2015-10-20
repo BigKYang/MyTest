@@ -1,0 +1,23 @@
+.btn {
+    border-radius: 0px;
+}
+
+.well {
+	border-radius: 0px;
+	margin: 20px 0px;	
+	background-color: #F1F1F1;    
+    box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.16), 0px 2px 10px 0px rgba(0, 0, 0, 0.12) !important;
+}
+
+.form-control {
+	border-radius: 0px;
+}
+
+.history {
+	border-right-width: 1px; 
+	border-left-width: 1px; 
+	padding-top: 5px; 
+	padding-bottom: 5px; 
+	padding-left: 15px;	 
+	padding-right: 15px;
+}
